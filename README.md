@@ -1,6 +1,8 @@
 # assets
 Brand assets for Nerite.
 
-Use Logocon-1.svg as a primary icon.
+If you're not sure which to use, please use "nerite logo main green" SVG or png.
 
-Use "Logo Word Mark" for a version with the word Nerite. Use the primary colors.
+Please use Logocon-1.svg as a primary icon when words are not allowed.
+
+Please use the primary colors for backgrounds.
